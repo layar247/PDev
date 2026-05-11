@@ -21,4 +21,5 @@ source venv/bin/activate  # или .\venv\Scripts\activate на Windows
 pip install -r requirements.txt
 cp .env.example .env
 # Настройте подключение к PostgreSQL (локальный или через Docker)
-python main.py```
+python main.py
+```
