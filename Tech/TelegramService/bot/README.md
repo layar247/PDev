@@ -22,4 +22,4 @@ pip install -r requirements.txt
 cp .env.example .env
 # Настройте подключение к PostgreSQL (локальный или через Docker)
 python main.py
-```
+
