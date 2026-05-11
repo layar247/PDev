@@ -8,3 +8,7 @@ Tech -> Real time control system -> README.md
 Информация о приложении для поставщиков:
 Tech -> SupOrd -> README.md
 ```
+# Руководство пользователя 
+Все проекты хранятся в папке `Tech`.
+
+- Информация о Телеграм сервисе: [README](Tech/TelegramService/bot/README.md)
