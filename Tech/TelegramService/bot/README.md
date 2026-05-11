@@ -22,4 +22,12 @@ pip install -r requirements.txt
 cp .env.example .env
 #Настройте подключение к PostgreSQL (локальный или через Docker)
 python main.py
+```
+### Порты и сервисы
+
+| Сервис | URL | Назначение |
+| --- | --- | --- |
+| Bot | (нет внешнего порта) | Обработка команд и опросов |
+| PostgreSQL | `localhost:5432` | Хранение пользователей, тем, ответов |
+| TEI embeddings | `localhost:6379` | Хранение состояний FSM |
 
