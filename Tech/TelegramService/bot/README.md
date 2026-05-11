@@ -10,7 +10,7 @@ Telegram‑бот помогает студентам ФКТиПМ КубГУ в
 git clone <your-repo-url>
 cd kursovichok-bot
 # Отредактируйте .env (укажите BOT_TOKEN, ADMIN_IDS и т.д.)
-docker compose up --build```
+docker compose up --build
 
 ###Локальный запуск
 ```python -m venv venv
