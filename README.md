@@ -2,7 +2,7 @@
 Все проекты хранятся в папке `Tech`.
 ```
 Информация о Телеграм сервисе:
-[Telegram-бот](https://github.com/layar247/PDev/blob/main/Tech/TelegramService/bot/README.md)
+<a href="https://github.com/layar247/PDev/blob/main/Tech/TelegramService/bot/README.md">Telegram-бот</a>
 Tech -> TelegramService -> bot -> README.md
 Информация о системе реального времени: 
 Tech -> Real time control system -> README.md
