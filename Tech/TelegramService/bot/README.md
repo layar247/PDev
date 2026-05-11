@@ -4,6 +4,8 @@ Telegram‑бот помогает студентам ФКТиПМ КубГУ в
 
 Всё работает в Docker Compose: сам бот на `aiogram 3`, PostgreSQL для хранения данных и Redis для FSM.
 
+## 🚀 Запуск
+
 ### Запуск через Docker Compose 
 
 ```bash
@@ -12,7 +14,7 @@ cd kursovichok-bot
 # Отредактируйте .env (укажите BOT_TOKEN, ADMIN_IDS и т.д.)
 docker compose up --build
 
-##Локальный запуск
+Локальный запуск
 
 ```python -m venv venv
 source venv/bin/activate  # или .\venv\Scripts\activate на Windows
