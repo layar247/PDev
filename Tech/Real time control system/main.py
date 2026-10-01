@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 import time
 import math
 import random
-
+ 
 
 class MNSLControlSystem:
     def __init__(self):
