@@ -2,7 +2,7 @@ import psycopg2
 from psycopg2.extras import DictCursor
 from sqlalchemy import create_engine
 from models import Base
-
+ 
 DB_PARAMS = {
     'host': 'localhost',
     'database': 'nes',
