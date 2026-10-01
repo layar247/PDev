@@ -6,7 +6,7 @@ from forms.payment_form import PaymentForm
 from forms.add_supplier_form import AddSupplierForm
 from forms.reference_form import ReferenceForm
 from utils.excel_report import generate_report_for_supplier
-
+ 
 class MainForm(tk.Tk):
     def __init__(self):
         super().__init__()
